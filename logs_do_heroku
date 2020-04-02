@@ -1,0 +1,49 @@
+2020-04-02T21:22:23.564672+00:00 app[api]: Release v2 created by user henriquemarinho11@hotmail.com
+2020-04-02T21:22:22.393330+00:00 app[api]: Release v1 created by user henriquemarinho11@hotmail.com
+2020-04-02T21:22:23.564672+00:00 app[api]: Enable Logplex by user henriquemarinho11@hotmail.com
+2020-04-02T21:23:01.000000+00:00 app[api]: Build started by user henriquemarinho11@hotmail.com
+2020-04-02T21:22:22.393330+00:00 app[api]: Initial release by user henriquemarinho11@hotmail.com
+2020-04-02T21:23:27.716054+00:00 app[api]: Release v3 created by user henriquemarinho11@hotmail.com
+2020-04-02T21:23:27.738252+00:00 app[api]: Scaled to web@1:Free by user henriquemarinho11@hotmail.com
+2020-04-02T21:23:27.716054+00:00 app[api]: Deploy 4868cf4c by user henriquemarinho11@hotmail.com
+2020-04-02T21:23:33.248232+00:00 heroku[web.1]: State changed from starting to crashed
+2020-04-02T21:23:33.253626+00:00 heroku[web.1]: State changed from crashed to starting
+2020-04-02T21:23:33.180703+00:00 app[web.1]: python: can't open file 't9.py': [Errno 2] No such file or directory
+2020-04-02T21:23:38.453545+00:00 heroku[web.1]: State changed from starting to crashed
+2020-04-02T21:23:38.383527+00:00 app[web.1]: python: can't open file 't9.py': [Errno 2] No such file or directory
+2020-04-02T21:23:37.000000+00:00 app[api]: Build succeeded
+2020-04-02T21:25:19.664455+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=still-castle-89449.herokuapp.com request_id=ab60fbc9-0cb8-409f-a478-b8a328e421f2 fwd="177.102.172.88" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T21:25:20.603203+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=still-castle-89449.herokuapp.com request_id=b6b5c441-436a-401d-acec-0c117f12c51d fwd="177.102.172.88" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T21:30:55.600948+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=still-castle-89449.herokuapp.com request_id=a0048e7b-539f-441c-9d68-50fd41a0f6da fwd="177.102.172.88" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T21:30:56.119577+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=still-castle-89449.herokuapp.com request_id=4aabe0a5-903d-4e57-81ab-8accbf1971c8 fwd="177.102.172.88" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T21:44:24.966680+00:00 heroku[web.1]: State changed from crashed to starting
+2020-04-02T21:44:30.236614+00:00 heroku[web.1]: State changed from starting to crashed
+2020-04-02T21:44:30.174259+00:00 app[web.1]: python: can't open file 't9.py': [Errno 2] No such file or directory
+2020-04-02T21:45:49.540700+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=still-castle-89449.herokuapp.com request_id=4c1db0ac-1bdb-4ead-bd65-cbee5ed48b26 fwd="177.102.172.88" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T21:45:50.748818+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=still-castle-89449.herokuapp.com request_id=bb6856df-e3da-49ea-a762-e48f9c1bcd3e fwd="177.102.172.88" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T22:26:36.659824+00:00 heroku[web.1]: State changed from crashed to starting
+2020-04-02T22:26:42.290132+00:00 heroku[web.1]: State changed from starting to crashed
+2020-04-02T22:26:42.211268+00:00 app[web.1]: python: can't open file 't9.py': [Errno 2] No such file or directory
+2020-04-02T23:22:56.000000+00:00 app[api]: Build started by user henriquemarinho11@hotmail.com
+2020-04-02T23:23:25.394357+00:00 heroku[web.1]: State changed from crashed to starting
+2020-04-02T23:23:25.108074+00:00 app[api]: Deploy 244ca47e by user henriquemarinho11@hotmail.com
+2020-04-02T23:23:25.108074+00:00 app[api]: Release v4 created by user henriquemarinho11@hotmail.com
+2020-04-02T23:23:31.642972+00:00 heroku[web.1]: State changed from starting to crashed
+2020-04-02T23:23:31.646200+00:00 heroku[web.1]: State changed from crashed to starting
+2020-04-02T23:23:31.538529+00:00 app[web.1]: python: can't open file 'Primos.py': [Errno 2] No such file or directory
+2020-04-02T23:23:33.000000+00:00 app[api]: Build succeeded
+2020-04-02T23:23:36.292279+00:00 heroku[web.1]: State changed from starting to crashed
+2020-04-02T23:23:36.214482+00:00 app[web.1]: python: can't open file 'Primos.py': [Errno 2] No such file or directory
+2020-04-02T23:24:59.480928+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=still-castle-89449.herokuapp.com request_id=a9439adb-362a-4612-adaf-c7b827f42c71 fwd="179.99.150.222" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T23:25:00.582324+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=still-castle-89449.herokuapp.com request_id=cecef38b-c167-47c2-bc9b-5e0d9450332c fwd="179.99.150.222" dyno= connect= service= status=503 bytes= protocol=https
+2020-04-02T23:37:16.000000+00:00 app[api]: Build started by user henriquemarinho11@hotmail.com
+2020-04-02T23:37:38.497397+00:00 heroku[web.1]: State changed from crashed to starting
+2020-04-02T23:37:38.294456+00:00 app[api]: Deploy 4b6ca68b by user henriquemarinho11@hotmail.com
+2020-04-02T23:37:38.294456+00:00 app[api]: Release v5 created by user henriquemarinho11@hotmail.com
+2020-04-02T23:37:44.980613+00:00 heroku[web.1]: State changed from starting to up
+2020-04-02T23:37:44.816587+00:00 app[web.1]: * Running on http://0.0.0.0:6692/ (Press CTRL+C to quit)
+2020-04-02T23:37:46.000000+00:00 app[api]: Build succeeded
+2020-04-02T23:38:38.810002+00:00 heroku[router]: at=info method=GET path="/" host=still-castle-89449.herokuapp.com request_id=28477ef3-cd08-47ab-bc92-a952d8d14e93 fwd="179.99.150.222" dyno=web.1 connect=1ms service=10ms status=200 bytes=625 protocol=https
+2020-04-02T23:38:38.809130+00:00 app[web.1]: 10.63.30.156 - - [02/Apr/2020 23:38:38] "GET / HTTP/1.1" 200 -
+2020-04-02T23:38:39.395612+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=still-castle-89449.herokuapp.com request_id=22c9b2fa-88b8-4be2-b640-bc074396373c fwd="179.99.150.222" dyno=web.1 connect=1ms service=43ms status=404 bytes=380 protocol=https
+2020-04-02T23:38:39.394026+00:00 app[web.1]: 10.63.30.156 - - [02/Apr/2020 23:38:39] "GET /favicon.ico HTTP/1.1" 404 -
